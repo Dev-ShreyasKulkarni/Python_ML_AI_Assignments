@@ -1,0 +1,3 @@
+Hello, good morning, We are learning Python.
+Python, Machine learning, Data Science.
+Artificial Intelligience , Deep learning, Generative AI.
